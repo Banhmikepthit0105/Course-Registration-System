@@ -1,0 +1,6 @@
+Academic year: 2021-2022
+Semester: Semester2
+Course ID: BKB005
+99997042,Tran Gia,Khiem,Nam,18/12/1111,9999
+18727058,Ngo Thanh,Tri,Nam,4/02/3333,15499
+98720123,Huynh Minh,Triet,Nam,6/5/1234,345667

@@ -1,0 +1,3 @@
+KTDD005,Kinh Te Dai Cuong,22CLC07,Nguyen Thi Huong,3,50,MON,S2(09:30),60,20,20
+NLH006,NangLuongHatNhan,22CLC01,Luong Vi Minh,5,41,SUN,S3(13:30),50,40,10
+KNM007,KyNangMem,21CLC03,Tran Tien Phat,2,40,SAT,S1(07:30),50,40,10

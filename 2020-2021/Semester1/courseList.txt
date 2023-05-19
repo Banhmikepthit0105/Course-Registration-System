@@ -1,0 +1,2 @@
+CHE002,HoaHocDaiCuong,22CLC06,Nguyen Van Phuoc,4,36,MON,S1(07:30),36,45,19
+PHY003,VatLiDaiCuong,22CLC04,Dinh Ba Tien,9,45,SUN,S4(15:30),50,40,10

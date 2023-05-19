@@ -1,0 +1,2 @@
+SHD003,SinhHocDaiCuong,21CLC03,Pham Ngoc Lan Anh,5,45,TUE,S2(09:30),50,40,10
+NCC005,NghienCuuCode,20APCS,Ly Manh Cuong,3,45,THUS,S3(13:30),50,40,10

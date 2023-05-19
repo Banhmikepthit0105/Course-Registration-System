@@ -1,0 +1,1 @@
+g++ AddCourse.cpp addStudent.cpp loadINPUT_printOUTPUT_toFILE.cpp main.cpp Menu_Score_Board.cpp password.cpp staff.cpp utilityFunction.cpp viewScore.cpp student.cpp schoolYearFeature.cpp -o main.exe
